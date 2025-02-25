@@ -1,6 +1,6 @@
 {
   "name": "Tattelecom Intercom / Таттелеком Домофон",
-  "render_readme": true,
+  "render_readme": false,
   "homeassistant": "2023.0.0",
   "country": "ru"
 }
