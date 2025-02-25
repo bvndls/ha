@@ -1,0 +1,17 @@
+{
+  "state": {
+    "tattelecom_intercom__sip_state": {
+      "inactive": "Неактивный",
+      "registering": "Регистрация",
+      "registered": "Зарегистрирован",
+      "deregistering": "Де регистрация",
+      "failed": "Неудача"
+    },
+    "tattelecom_intercom__call_state": {
+      "dialing": "Набор номера",
+      "ringing": "Звонок",
+      "answered": "Ответил",
+      "ended": "Завершен"
+    }
+  }
+}
